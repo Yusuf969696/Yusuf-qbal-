@@ -1,0 +1,237 @@
+ 
+@media only screen and (min-width: 1000px) and (max-width: 1239px) {	
+.container{width:980px; position:relative; }
+
+.drug-free-img {
+    width: 49%;
+    margin: -30px 0 0 0;
+}
+.drug-free-img img{max-width:100%; height:auto;}
+.drug-free-mid ul{    width:45%;}
+.drug-free-mid .img{width: 55%;}
+.drug-free-mid .img img{max-width:100%; height:auto;}
+.feature-section ul li h4 {
+    margin: 0px 0 20px;
+    padding: 0px;
+    font-size: 16px;
+}
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 999px) {	
+.container{ width:737px; position:relative; }
+.banner-content {
+    width:60%;
+    float: right;
+    margin: 0px;
+    padding:50px 0 50px;
+}
+.drug-free-img {
+    width: 49%;
+    margin: -30px 0 0 0;
+}
+.banner-text h3{font-size:32px; line-height:32px;}
+
+.drug-free-img img{max-width:100%; height:auto;}
+.drug-free-mid ul{    width:45%;}
+.drug-free-mid .img{width: 55%;}
+.drug-free-mid .img img{max-width:100%; height:auto;}
+.feature-section ul li h4 {
+    margin: 0px 0 20px;
+    padding: 0px;
+    font-size: 16px;
+}
+.feature-section ul li {
+    width:25%;
+    float: left;
+    margin: 0;
+    padding: 0px 1%;
+    list-style: none;
+}
+.device-section ul li {
+    width:100%;
+    float: left;
+    margin: 0;
+    padding: 0px 0% 30px;
+    list-style: none;
+}
+.pharmacy-marketing {
+    width:100%;
+    float: left;
+    margin: 0px 0% 0 0;
+    padding:30px;
+    background: #1f1f1f;
+}
+.form-section{width:100%;
+    float: left;
+    margin: 30px 0% 0 0;
+    padding:30px;}
+
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {		
+.container{ width:95%; position:relative; }
+.banner-content {
+    width:65%;
+    float: right;
+    margin: 0px;
+    padding:50px 0 50px;
+}
+.drug-free-img {
+    width:100%;
+    margin: -30px 0 0 0;
+}
+.banner-text h3{font-size:26px; line-height:26px;}
+.banner-content h2 {
+    margin: 20px 0 20px;
+    font-size:40px;
+    color: #fff;
+    line-height:40px;
+}
+.drug-free-right {
+    width:100%;
+    float: left;
+    margin: 30px 0 0 0;
+    padding: 0px;
+}
+.drug-free-img img{max-width:100%; height:auto;}
+.drug-free-mid ul{    width:45%;}
+.drug-free-mid .img{width: 55%;}
+.drug-free-mid .img img{max-width:100%; height:auto;}
+.feature-section ul li h4 {
+    margin: 0px 0 20px;
+    padding: 0px;
+    font-size: 16px;
+}
+.feature-section ul li {
+    width:25%;
+    float: left;
+    margin: 0;
+    padding: 0px 1%;
+    list-style: none;
+}
+.device-section ul li {
+    width:100%;
+    float: left;
+    margin: 0;
+    padding: 0px 0% 30px;
+    list-style: none;
+}
+.pharmacy-marketing {
+    width:100%;
+    float: left;
+    margin: 0px 0% 0 0;
+    padding:30px;
+    background: #1f1f1f;
+}
+.form-section{width:100%;
+    float: left;
+    margin: 30px 0% 0 0;
+    padding:30px;}
+#mixedSlider2 .MS-content .item {
+    display: inline-block;
+    width:96%;
+    position: relative;
+    vertical-align: top;
+    overflow: hidden;
+    height: 100%;
+    white-space: normal;
+    padding: 30px;
+    margin: 20px 2% 30px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: #99ded5 0 0 15px;
+ 
+}
+}
+@media only screen and (max-width: 479px) {
+.container{ width:95%; position:relative;}
+.banner-logo {width:100%;}
+.banner-logo img{ width:100%; height:auto}
+.banner-content {
+    width:100%;
+    float: right;
+    margin: 0px;
+    padding:50px 0 50px;
+}
+.drug-free-img {
+    width:100%;
+    margin: -30px 0 0 0;
+}
+.banner-text h3{font-size:26px; line-height:26px;}
+.banner-content h2 {
+    margin: 20px 0 20px;
+    font-size:40px;
+    color: #fff;
+    line-height:40px;
+}
+.drug-free-right {
+    width:100%;
+    float: left;
+    margin: 30px 0 0 0;
+    padding: 0px;
+}
+.drug-free-img img{max-width:100%; height:auto;}
+.drug-free-mid ul{    width:100%;}
+.drug-free-mid .img{width: 100%;}
+.drug-free-mid .img img{max-width:100%; height:auto;}
+.feature-section ul li h4 {
+    margin: 0px 0 20px;
+    padding: 0px;
+    font-size: 16px;
+}
+.feature-section ul li {
+    width:50%;
+    float: left;
+    margin: 0;
+    padding: 0px 1%;
+    list-style: none;
+}
+.device-section ul li {
+    width:100%;
+    float: left;
+    margin: 0;
+    padding: 0px 0% 30px;
+    list-style: none;
+}
+.pharmacy-marketing {
+    width:100%;
+    float: left;
+    margin: 0px 0% 0 0;
+    padding:30px;
+    background: #1f1f1f;
+}
+.form-section{width:100%;
+    float: left;
+    margin: 30px 0% 0 0;
+    padding:30px;}
+#mixedSlider2 .MS-content .item {
+    display: inline-block;
+    width:96%;
+    position: relative;
+    vertical-align: top;
+    overflow: hidden;
+    height: 100%;
+    white-space: normal;
+    padding: 30px;
+    margin: 20px 2% 30px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: #99ded5 0 0 15px;
+ 
+}
+.contact-section ul li {
+    width: 100%;
+    float: none;
+    margin: 0 0px 10px;
+    padding: 0px 0%;
+    list-style: none;
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    color: #00a994;
+    line-height: 50px;
+    font-weight: 700;
+}
+
+}
